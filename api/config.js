@@ -6,13 +6,13 @@ module.exports = {
      */
     accountSid: 'AC618d3c027010cd38e8e1591b84f41e9a',
     authToken: '44c6522da9db8141407b6f2785799ac6',
-    callerid: '+yourcallerid',
+    callerid: '+19282499754',
 
     /**
      * Informations à propos de l'API
      */
-    apipassword: 'passwordtochange',
-    serverurl: 'http://yourserverip:1337',
+    apipassword: 'passwordmustbe16ormoe',
+    serverurl: 'http://20.240.40.244:1337',
 
     /**
      * Informations à propos du webhook discord
